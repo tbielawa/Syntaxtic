@@ -1,0 +1,22 @@
+Installation instructions
+=========================
+
+Easy Install:
+
+    https://chrome.google.com/extensions/detail/cgjalgdhmbpaacnnejmodfinclbdgaci
+
+
+Developer Install:
+
+    git clone http://github.com/matheeeny/Syntaxtic.git
+
+    Open chrome extension manager: Window -> Extensions
+
+    Click on "Developer mode" to show the "Load unpacked extension..." button
+
+    Click "Load unpacked extension..."
+
+    Open the 'Syntaxtic' folder you cloned
+
+
+http://code.google.com/chrome/extensions/getstarted.html#load
